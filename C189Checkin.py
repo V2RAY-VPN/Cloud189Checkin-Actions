@@ -7,9 +7,9 @@ username = ""
 password = ""
 
 if(username == "" or password == ""):
-    #username = input("账号：") ####
-    #print(username[:3] + '****' + username[7:])
-    print('Tony')
+    username = input("账号：") 
+    #####print(username[:3] + '****' + username[7:])
+    print('Tony签到189.cn')
     password = input("密码：")
 
 def main():
